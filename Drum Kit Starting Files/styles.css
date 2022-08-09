@@ -3,7 +3,7 @@ body {
   background-color: #283149;
 }
 
-h1 {
+h1 { 
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -17,31 +17,31 @@ footer {
 }
 
 .w {
-
+  background-image: url(images/crash.png);
 }
 
 .a {
-
+  background-image: url(images/kick.png);
 }
 
 .s {
-
+  background-image: url(images/snare.png);
 }
 
 .d {
-
+  background-image: url(images/tom1.png);
 }
 
 .j {
-
+  background-image: url(images/tom2.png);
 }
 
 .k {
-
+  background-image: url(images/tom3.png);
 }
 
 .l {
-
+  background-image: url(images/tom4.png);
 }
 
 .set {
